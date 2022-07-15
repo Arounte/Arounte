@@ -1,6 +1,6 @@
 ## 🥴 **Wazzzzup**
 
-🧑🏼‍💻 I'm **Arounte**, a 19 y.o. student from Novosibirsk, Russian Federation.
+🧑🏼‍💻 I'm **Arounte**, a 19 y.o. student from Novosibirsk, Russian Federation
 
 ✨ My main activity is **frontend**
 

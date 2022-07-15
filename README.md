@@ -1,4 +1,4 @@
-### **Wazzzzup** 🥴
+## 🥴 **Wazzzzup**
 
 🧑🏼‍💻 I'm **Arounte**, a 19 y.o. student from Novosibirsk, Russian Federation.
 

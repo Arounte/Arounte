@@ -1,10 +1,10 @@
-### Wazzzzup 🥴
+### **Wazzzzup** 🥴
 
-🧑🏼‍💻 I'm *Arounte*, a 19 y.o. student from Novosibirsk, Russian Federation.
+🧑🏼‍💻 I'm **Arounte**, a 19 y.o. student from Novosibirsk, Russian Federation.
 
-✨ My main activity is *frontend*
+✨ My main activity is **frontend**
 
-💌 Contact me: <mailto:arounte@proton.me>
+💌 Contact me: [arounte@proton.me](mailto:arounte@proton.me)
 
 
 ## 🛠 Stack

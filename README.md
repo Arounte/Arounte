@@ -1,6 +1,6 @@
 ## 🥴 **Wazzzzup**
 
-🧑🏼‍💻 I'm **Arounte**, a 20 y.o. **student & web-developer** from
+🧑🏼‍💻 I'm **Arounte**, a 21 y.o. **student & web-developer** from
 **Novosibirsk, Russian Federation**
 
 ✨ My main activity is **frontend**
